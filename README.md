@@ -1,8 +1,7 @@
 # James Oriel R. Pioquinto
 
-## ABOUT 
+## ABOUT ME 
 I am James oriel enjoy electronic, Arduino project.
-
 ---
 
 ## Location 
