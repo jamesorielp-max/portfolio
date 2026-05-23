@@ -10,5 +10,5 @@
 
 | Role | Institution |
 |------| ------------|
-|Student | Engineering Student|
+|FULLBRIGHT COLLEGE | Engineering Student|
 
