@@ -1,12 +1,12 @@
 # James Oriel R. Pioquinto
 
-**' playing basketball.coding'**
+**' cooking Food.playing basketball.coding'**
 **' El nido palawan'**
 **Food**
 
 - Adubo
 - sinigang na bangos
-- sisig 
+- sisig na aso 
 
 | Role | Institution |
 |------| ------------|
