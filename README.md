@@ -1,14 +1,26 @@
 # James Oriel R. Pioquinto
 
-**' cooking Food.playing basketball.coding'**
-**' El nido palawan'**
-**Food**
+**Skill**
+- Cooking food,
 
+**Hobbies**
+**'playing basketball'**
+**' El nido palawan'**
+
+**Food**
 - Adubo
-- sinigang na bangos
-- sisig na aso 
+- sinigang 
+- sisig
+
+** Drinks**
+- Royal
+- Red horse 
+
 
 | Role | Institution |
 |------| ------------|
-|FULLBRIGHT COLLEGE | Engineering Student|
+| Student | Electronic Engineering Student|
+
+| Family |
+
 
