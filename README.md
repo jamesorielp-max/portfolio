@@ -1,20 +1,48 @@
 # James Oriel R. Pioquinto
 
-**Skill**
-- Cooking food,
+## ABOUT 
+I am James oriel enjoy electronic, Arduino project.
 
-**Hobbies**
-**'playing basketball'**
+---
 
-**' Location '**
- - El nido palawan
+## Location 
+ El nido Palawan
 
-**Food**
+---
+
+## Hobbies 
+- Cooking food
+- Nature trip
+- Travel 
+
+---
+
+## SKILLS 
+
+| Skill | Level |
+|-------|-------|
+| c++ | Beginner |
+| Arduino | Beginner |
+
+---
+
+## PROJECTS
+### ARDUINO LED BLINK
+-Simple Arduino LED blinking project c++
+-Sular tracker 
+### EasyEDA schematic 
+
+---
+
+## FAVORITE FOOD
+
 - Adubo
-- sinigang 
-- sisig
+- Sinigang
+- Sisig
 
-** Drinks**
+---
+
+** DRINKS 
 - Royal
 - Red horse 
 
@@ -23,10 +51,16 @@
 |------| ------------|
 | Student | Electronic Engineering Student|
 
-| Family |
+| FAMILY |
 |--------------------|
 |we are five siblings|
 |Two boys|
 |One Girl|
+___
+
+THANKS FOR VISITING MY PORTFOLIO !
+
+
+
 
 
