@@ -5,7 +5,9 @@
 
 **Hobbies**
 **'playing basketball'**
-**' El nido palawan'**
+
+**' Location '**
+ - El nido palawan
 
 **Food**
 - Adubo
@@ -22,5 +24,9 @@
 | Student | Electronic Engineering Student|
 
 | Family |
+|--------------------|
+|we are five siblings|
+|Two boys|
+|One Girl|
 
 
