@@ -57,7 +57,7 @@ I am James oriel enjoy electronic, Arduino project.
 |One Girl|
 ___
 
-THANKS FOR VISITING MY PORTFOLIO !
+THANKS FOR VISITING MY PORTFOLIO!
 
 
 
